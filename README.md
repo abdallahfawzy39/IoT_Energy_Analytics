@@ -7,3 +7,5 @@ link: https://drive.google.com/drive/folders/1OQIUIFFaGB0WMmgvq7tBKYHhVScEFVKQ?u
 Then, you upload the folder as it is on your drive.
 
 Finally, you launch the colab code file and grant permission for your drive.
+
+Here is the link for our Google colab code for reference: [https://colab.research.google.com/drive/1Pncy6Un8FY-IUwGehMyWK6jsRo88MJcD#scrollTo=VN7Pm25Kf-jx](https://colab.research.google.com/drive/1Pncy6Un8FY-IUwGehMyWK6jsRo88MJcD?usp=sharing)
