@@ -1,6 +1,6 @@
 # IoT_Energy_Analytics
 
-To successfully launch the code, You need to download the folder called IoT_CSV "containing the txt data file" on your drive.
+To successfully launch the code, You need to download the folder called IoT_CSV "containing the txt data file" on your PC.
 
 link: https://drive.google.com/drive/folders/1OQIUIFFaGB0WMmgvq7tBKYHhVScEFVKQ?usp=drive_link
 
